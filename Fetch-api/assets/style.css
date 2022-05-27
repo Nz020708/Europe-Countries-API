@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+text-align: center;
+margin-top: 30px;
+color: rgb(87, 10, 10);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.list{
+width: 700px;
+height: 100%;
+border:3px solid brown;
+border-radius: 0.3%;
+margin: 0 auto;
+margin-top: 90px;
+box-shadow: 2px 2px 7px;
+padding:  50px 160px;
+background-color: rgb(231, 199, 151);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
